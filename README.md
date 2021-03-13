@@ -1,4 +1,3 @@
-# C-Projects
-commented C++ code in differents Projects.
+# Full Stack developper 
 
-i will also try to add software design and architecture of differents source code.
+Learn HTML/CSS/JavaScript/React/Node.js/MySQL/MongoDB/Git commands
